@@ -4,7 +4,7 @@
 
 You are given a list of Ethereum wallet addresses. Your task is to assign each wallet a **risk score between 0 and 1000**, based solely on its historical on-chain behavior using the Compound protocol (V2 or V3).
 
-The objective is to model wallet behavior based on lending/borrowing actions, derive meaningful risk indicators, and produce a final output in the required format. Your solution must be **clear, justified, and scalable**.
+The objective is to model wallet behavior based on lending/borrowing actions, derive meaningful risk indicators, and produce a final output in the required format. 
 
 ##  1. Data Collection Method
 
